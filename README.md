@@ -351,7 +351,7 @@ systemctl status certbot.timer
 ```
 
 
-#If you want to allow all incoming connections on all ports using UFW, you can achieve it by allowing the desired protocols (such as TCP and UDP) explicitly. Here's the corrected process:
+# If you want to allow all incoming connections on all ports using UFW, you can achieve it by allowing the desired protocols (such as TCP and UDP) explicitly. Here's the corrected process:
 
 Check the status of UFW to ensure it's active by running the following command:
 
